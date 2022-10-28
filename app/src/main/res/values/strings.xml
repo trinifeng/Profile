@@ -4,8 +4,10 @@
     <string name="entry_text">My Profile</string>
     <string name="profile_image">Profile Image</string>
     <string name="bio_scroll">Scroll</string>
-    <string name="bio_text">Trini Feng is a high school senior at Crystal Lake South.
-    \nShe\'s currently in the Advanced Mobile Apps class and took AP Computer Science A her freshman year.
-    \nShe hopes to major in computer science with a focus on linguistics in the future.
-    \nIn her free time, she likes music, writing, and reading! She\'s always looking for new Spotify recs. :)</string>
+    <string name="bio_text">Trini Feng is a high school senior at Crystal Lake South.\n
+    \nShe\'s currently in the Advanced Mobile Apps class and took AP Computer Science A her freshman year.\n
+    \nShe hopes to major in computer science with a focus on linguistics in the future.\n
+    \nIn her free time, she likes music, writing, and reading! She\'s always looking for new Spotify recs. :)\n
+    \nFavorite TV show: Parks and Rec\n
+    \nFavorite movie: Inception\n</string>
 </resources>
